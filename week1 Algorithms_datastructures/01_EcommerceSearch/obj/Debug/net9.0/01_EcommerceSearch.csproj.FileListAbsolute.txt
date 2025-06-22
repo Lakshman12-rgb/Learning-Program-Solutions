@@ -1,0 +1,14 @@
+C:\Users\TARUN K\OneDrive\Desktop\week1 Algorithms_datastructures\01_EcommerceSearch\bin\Debug\net9.0\01_EcommerceSearch.exe
+C:\Users\TARUN K\OneDrive\Desktop\week1 Algorithms_datastructures\01_EcommerceSearch\bin\Debug\net9.0\01_EcommerceSearch.deps.json
+C:\Users\TARUN K\OneDrive\Desktop\week1 Algorithms_datastructures\01_EcommerceSearch\bin\Debug\net9.0\01_EcommerceSearch.runtimeconfig.json
+C:\Users\TARUN K\OneDrive\Desktop\week1 Algorithms_datastructures\01_EcommerceSearch\bin\Debug\net9.0\01_EcommerceSearch.dll
+C:\Users\TARUN K\OneDrive\Desktop\week1 Algorithms_datastructures\01_EcommerceSearch\bin\Debug\net9.0\01_EcommerceSearch.pdb
+C:\Users\TARUN K\OneDrive\Desktop\week1 Algorithms_datastructures\01_EcommerceSearch\obj\Debug\net9.0\01_EcommerceSearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TARUN K\OneDrive\Desktop\week1 Algorithms_datastructures\01_EcommerceSearch\obj\Debug\net9.0\01_EcommerceSearch.AssemblyInfoInputs.cache
+C:\Users\TARUN K\OneDrive\Desktop\week1 Algorithms_datastructures\01_EcommerceSearch\obj\Debug\net9.0\01_EcommerceSearch.AssemblyInfo.cs
+C:\Users\TARUN K\OneDrive\Desktop\week1 Algorithms_datastructures\01_EcommerceSearch\obj\Debug\net9.0\01_EcommerceSearch.csproj.CoreCompileInputs.cache
+C:\Users\TARUN K\OneDrive\Desktop\week1 Algorithms_datastructures\01_EcommerceSearch\obj\Debug\net9.0\01_EcommerceSearch.dll
+C:\Users\TARUN K\OneDrive\Desktop\week1 Algorithms_datastructures\01_EcommerceSearch\obj\Debug\net9.0\refint\01_EcommerceSearch.dll
+C:\Users\TARUN K\OneDrive\Desktop\week1 Algorithms_datastructures\01_EcommerceSearch\obj\Debug\net9.0\01_EcommerceSearch.pdb
+C:\Users\TARUN K\OneDrive\Desktop\week1 Algorithms_datastructures\01_EcommerceSearch\obj\Debug\net9.0\01_EcommerceSearch.genruntimeconfig.cache
+C:\Users\TARUN K\OneDrive\Desktop\week1 Algorithms_datastructures\01_EcommerceSearch\obj\Debug\net9.0\ref\01_EcommerceSearch.dll

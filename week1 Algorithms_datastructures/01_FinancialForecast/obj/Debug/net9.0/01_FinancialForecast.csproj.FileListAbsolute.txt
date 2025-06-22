@@ -1,0 +1,14 @@
+C:\Users\TARUN K\OneDrive\Desktop\week1 Algorithms_datastructures\01_FinancialForecast\bin\Debug\net9.0\01_FinancialForecast.exe
+C:\Users\TARUN K\OneDrive\Desktop\week1 Algorithms_datastructures\01_FinancialForecast\bin\Debug\net9.0\01_FinancialForecast.deps.json
+C:\Users\TARUN K\OneDrive\Desktop\week1 Algorithms_datastructures\01_FinancialForecast\bin\Debug\net9.0\01_FinancialForecast.runtimeconfig.json
+C:\Users\TARUN K\OneDrive\Desktop\week1 Algorithms_datastructures\01_FinancialForecast\bin\Debug\net9.0\01_FinancialForecast.dll
+C:\Users\TARUN K\OneDrive\Desktop\week1 Algorithms_datastructures\01_FinancialForecast\bin\Debug\net9.0\01_FinancialForecast.pdb
+C:\Users\TARUN K\OneDrive\Desktop\week1 Algorithms_datastructures\01_FinancialForecast\obj\Debug\net9.0\01_FinancialForecast.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TARUN K\OneDrive\Desktop\week1 Algorithms_datastructures\01_FinancialForecast\obj\Debug\net9.0\01_FinancialForecast.AssemblyInfoInputs.cache
+C:\Users\TARUN K\OneDrive\Desktop\week1 Algorithms_datastructures\01_FinancialForecast\obj\Debug\net9.0\01_FinancialForecast.AssemblyInfo.cs
+C:\Users\TARUN K\OneDrive\Desktop\week1 Algorithms_datastructures\01_FinancialForecast\obj\Debug\net9.0\01_FinancialForecast.csproj.CoreCompileInputs.cache
+C:\Users\TARUN K\OneDrive\Desktop\week1 Algorithms_datastructures\01_FinancialForecast\obj\Debug\net9.0\01_FinancialForecast.dll
+C:\Users\TARUN K\OneDrive\Desktop\week1 Algorithms_datastructures\01_FinancialForecast\obj\Debug\net9.0\refint\01_FinancialForecast.dll
+C:\Users\TARUN K\OneDrive\Desktop\week1 Algorithms_datastructures\01_FinancialForecast\obj\Debug\net9.0\01_FinancialForecast.pdb
+C:\Users\TARUN K\OneDrive\Desktop\week1 Algorithms_datastructures\01_FinancialForecast\obj\Debug\net9.0\01_FinancialForecast.genruntimeconfig.cache
+C:\Users\TARUN K\OneDrive\Desktop\week1 Algorithms_datastructures\01_FinancialForecast\obj\Debug\net9.0\ref\01_FinancialForecast.dll
