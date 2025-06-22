@@ -1,0 +1,14 @@
+C:\Users\TARUN K\OneDrive\Desktop\Week1_DesignPatternsAndPrinciples\01_SingletonPattern\bin\Debug\net9.0\01_SingletonPattern.exe
+C:\Users\TARUN K\OneDrive\Desktop\Week1_DesignPatternsAndPrinciples\01_SingletonPattern\bin\Debug\net9.0\01_SingletonPattern.deps.json
+C:\Users\TARUN K\OneDrive\Desktop\Week1_DesignPatternsAndPrinciples\01_SingletonPattern\bin\Debug\net9.0\01_SingletonPattern.runtimeconfig.json
+C:\Users\TARUN K\OneDrive\Desktop\Week1_DesignPatternsAndPrinciples\01_SingletonPattern\bin\Debug\net9.0\01_SingletonPattern.dll
+C:\Users\TARUN K\OneDrive\Desktop\Week1_DesignPatternsAndPrinciples\01_SingletonPattern\bin\Debug\net9.0\01_SingletonPattern.pdb
+C:\Users\TARUN K\OneDrive\Desktop\Week1_DesignPatternsAndPrinciples\01_SingletonPattern\obj\Debug\net9.0\01_SingletonPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TARUN K\OneDrive\Desktop\Week1_DesignPatternsAndPrinciples\01_SingletonPattern\obj\Debug\net9.0\01_SingletonPattern.AssemblyInfoInputs.cache
+C:\Users\TARUN K\OneDrive\Desktop\Week1_DesignPatternsAndPrinciples\01_SingletonPattern\obj\Debug\net9.0\01_SingletonPattern.AssemblyInfo.cs
+C:\Users\TARUN K\OneDrive\Desktop\Week1_DesignPatternsAndPrinciples\01_SingletonPattern\obj\Debug\net9.0\01_SingletonPattern.csproj.CoreCompileInputs.cache
+C:\Users\TARUN K\OneDrive\Desktop\Week1_DesignPatternsAndPrinciples\01_SingletonPattern\obj\Debug\net9.0\01_SingletonPattern.dll
+C:\Users\TARUN K\OneDrive\Desktop\Week1_DesignPatternsAndPrinciples\01_SingletonPattern\obj\Debug\net9.0\refint\01_SingletonPattern.dll
+C:\Users\TARUN K\OneDrive\Desktop\Week1_DesignPatternsAndPrinciples\01_SingletonPattern\obj\Debug\net9.0\01_SingletonPattern.pdb
+C:\Users\TARUN K\OneDrive\Desktop\Week1_DesignPatternsAndPrinciples\01_SingletonPattern\obj\Debug\net9.0\01_SingletonPattern.genruntimeconfig.cache
+C:\Users\TARUN K\OneDrive\Desktop\Week1_DesignPatternsAndPrinciples\01_SingletonPattern\obj\Debug\net9.0\ref\01_SingletonPattern.dll

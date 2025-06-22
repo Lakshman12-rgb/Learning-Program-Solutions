@@ -1,0 +1,14 @@
+C:\Users\TARUN K\OneDrive\Desktop\Week1_DesignPatternsAndPrinciples\02_FatoryMethod\bin\Debug\net9.0\02_FatoryMethod.exe
+C:\Users\TARUN K\OneDrive\Desktop\Week1_DesignPatternsAndPrinciples\02_FatoryMethod\bin\Debug\net9.0\02_FatoryMethod.deps.json
+C:\Users\TARUN K\OneDrive\Desktop\Week1_DesignPatternsAndPrinciples\02_FatoryMethod\bin\Debug\net9.0\02_FatoryMethod.runtimeconfig.json
+C:\Users\TARUN K\OneDrive\Desktop\Week1_DesignPatternsAndPrinciples\02_FatoryMethod\bin\Debug\net9.0\02_FatoryMethod.dll
+C:\Users\TARUN K\OneDrive\Desktop\Week1_DesignPatternsAndPrinciples\02_FatoryMethod\bin\Debug\net9.0\02_FatoryMethod.pdb
+C:\Users\TARUN K\OneDrive\Desktop\Week1_DesignPatternsAndPrinciples\02_FatoryMethod\obj\Debug\net9.0\02_FatoryMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TARUN K\OneDrive\Desktop\Week1_DesignPatternsAndPrinciples\02_FatoryMethod\obj\Debug\net9.0\02_FatoryMethod.AssemblyInfoInputs.cache
+C:\Users\TARUN K\OneDrive\Desktop\Week1_DesignPatternsAndPrinciples\02_FatoryMethod\obj\Debug\net9.0\02_FatoryMethod.AssemblyInfo.cs
+C:\Users\TARUN K\OneDrive\Desktop\Week1_DesignPatternsAndPrinciples\02_FatoryMethod\obj\Debug\net9.0\02_FatoryMethod.csproj.CoreCompileInputs.cache
+C:\Users\TARUN K\OneDrive\Desktop\Week1_DesignPatternsAndPrinciples\02_FatoryMethod\obj\Debug\net9.0\02_FatoryMethod.dll
+C:\Users\TARUN K\OneDrive\Desktop\Week1_DesignPatternsAndPrinciples\02_FatoryMethod\obj\Debug\net9.0\refint\02_FatoryMethod.dll
+C:\Users\TARUN K\OneDrive\Desktop\Week1_DesignPatternsAndPrinciples\02_FatoryMethod\obj\Debug\net9.0\02_FatoryMethod.pdb
+C:\Users\TARUN K\OneDrive\Desktop\Week1_DesignPatternsAndPrinciples\02_FatoryMethod\obj\Debug\net9.0\02_FatoryMethod.genruntimeconfig.cache
+C:\Users\TARUN K\OneDrive\Desktop\Week1_DesignPatternsAndPrinciples\02_FatoryMethod\obj\Debug\net9.0\ref\02_FatoryMethod.dll
